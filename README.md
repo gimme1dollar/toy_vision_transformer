@@ -7,9 +7,9 @@
 - easy rearrange with eionops
 - simple performance test with cifar10
 
-![model_summary](./img/summary.png)
-summary example with 2 mha blocks
+- summary example with 2 mha blocks    
+![model_summary](./img/summary.png)    
 
 ## Attention visualization
-![attention_map](./img/attention_map.png)
-(trained with only 100 sampled images for 5 epochs, need more training)
+- trained with only 100 sampled images for 5 epochs, need more training
+![attention_map](./img/attention_map.png)    
